@@ -292,7 +292,7 @@ def HELP():
         tk.Label(Help_window,text=open("Desktop/NED DBMS/HELP.txt","r").read()).pack()
         Help_window.mainloop()
     else:
-        messagebox.showerror("Error", "HELP.txt file does not exists!.please paste given HELP file to NED Database Folder.")
+        messagebox.showerror("Error", "HELP.txt file does not exists!. please paste given HELP file to NED DBMS Folder.")
 def Open_database():
     # Exit to main window
     def Exit():
