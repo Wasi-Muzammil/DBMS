@@ -1,0 +1,13 @@
+ NED DBMS is one of the most useful DBMS, which offer variety
+of operations.
+
+*)By the help of this DBMS you can 'create' a new database 
+by giving many fields as you want, with that you can also give the length
+of fields which help to enhance your database.
+
+*)You can also open a existing database and you can edit,delete,display
+all records or display the selcted one records.You may add many records as you
+want in your DataBase.
+
+*)We also offers a unique security option for each Database by taking password
+from any user which fortify your Database privicy and protection.
